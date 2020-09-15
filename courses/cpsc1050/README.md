@@ -10,6 +10,13 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 **Prerequisite(s):** N/A
 
+## Lecture Recordings
+
+- 2020/09/14
+  - https://streamable.com/ektact
+  - https://streamable.com/scvh7c
+  - https://www.youtube.com/watch?v=jnIWZE284Rw&feature=youtu.be
+
 ## Resources
 
 - Do you have a resource for this class? [Create a pull request](https://github.com/langaracs/course-resources/compare)!
