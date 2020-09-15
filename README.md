@@ -4,7 +4,7 @@
 
 This repository is a central place for computer science students at Langara to share resources related to their computer classes. 🤓
 
-If you haven't already, make sure you join our [Discord server](https://discord.gg/uy3wCpZ) to collaborate with your fellow students!g
+If you haven't already, make sure you join our [Discord server](https://discord.gg/uy3wCpZ) to collaborate with your fellow students!
 
 ## Courses
 
