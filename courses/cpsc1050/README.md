@@ -19,4 +19,7 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 ## Resources
 
-- Do you have a resource for this class? [Create a pull request](https://github.com/langaracs/course-resources/compare)!
+### Number Systems and Binary
+
+- [Introduction to number systems and binary (Khan Academy)](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
+- [Binary Number System (Math Is Fun)](https://www.mathsisfun.com/binary-number-system.html)
