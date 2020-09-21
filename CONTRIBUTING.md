@@ -2,7 +2,9 @@
 
 This repo is a volunteer effort. All newcomers to git and GitHub are welcome!
 
-**For a primer on how to use git & GitHub**, read this [step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/).
+Not sure what GitHub is? [Watch this excellent video](https://www.youtube.com/watch?v=w3jLJU7DT5E) for a quick primer or [take this quick GitHub course](https://lab.github.com/githubtraining/introduction-to-github).
+
+Next, read this [step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/).
 
 Thanks!
 
