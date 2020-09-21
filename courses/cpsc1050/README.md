@@ -19,6 +19,8 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 ## Resources
 
+- [Answer key to Computer Science Illuminated 7th edition](https://www.bartleby.com/solution-answer/chapter-1-problem-1e-computer-science-illuminated-7th-edition/9781284155617/40248f0b-aa09-11e9-8385-02ee952b546e)
+
 ### Number Systems and Binary
 
 - [Introduction to number systems and binary (Khan Academy)](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
