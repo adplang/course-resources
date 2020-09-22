@@ -10,12 +10,25 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 **Prerequisite(s):** N/A
 
-## Lecture Recordings
+## Lectures
 
-- 2020/09/14
-  - https://streamable.com/ektact
-  - https://streamable.com/scvh7c
-  - https://www.youtube.com/watch?v=jnIWZE284Rw&feature=youtu.be
+### Lecture 2
+
+#### L2 - Notes
+
+- [Amy's notes](https://docs.google.com/document/d/18vJ-Hpn_h0KsboF2cEIpxPPQXepFrnmKhtecmVeuUfE/edit)
+
+#### L2 - Video
+
+- https://streamable.com/ektact
+- https://streamable.com/scvh7c
+- https://www.youtube.com/watch?v=jnIWZE284Rw&feature=youtu.be
+
+### Lecture 3
+
+#### L3 - Notes
+
+- [Amy's notes](https://docs.google.com/document/d/1OLIb4HYL7qM8ocgsyoUehacU2KJC57ai9ktumTPcCBQ/edit)
 
 ## Resources
 
