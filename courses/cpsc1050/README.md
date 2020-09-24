@@ -14,21 +14,19 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 ### Lecture 2
 
-#### L2 - Notes
-
 - [Amy's notes](https://docs.google.com/document/d/18vJ-Hpn_h0KsboF2cEIpxPPQXepFrnmKhtecmVeuUfE/edit)
 
-#### L2 - Video
-
-- https://streamable.com/ektact
-- https://streamable.com/scvh7c
-- https://www.youtube.com/watch?v=jnIWZE284Rw&feature=youtu.be
+- [Video 1](https://streamable.com/ektact)
+- [Video 2](https://streamable.com/scvh7c)
+- [Video 3](https://www.youtube.com/watch?v=jnIWZE284Rw&feature=youtu.be)
 
 ### Lecture 3
 
-#### L3 - Notes
-
 - [Amy's notes](https://docs.google.com/document/d/1OLIb4HYL7qM8ocgsyoUehacU2KJC57ai9ktumTPcCBQ/edit)
+
+### Lecture 4
+
+- [Amy's notes](https://docs.google.com/document/d/1KVpDD5W-oIcs4eDCoPg5ITEbODS1OFOWbs8vckx6IA0/edit)
 
 ## Resources
 
@@ -38,3 +36,10 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 - [Introduction to number systems and binary (Khan Academy)](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
 - [Binary Number System (Math Is Fun)](https://www.mathsisfun.com/binary-number-system.html)
+
+## Logic Gates
+
+- [Build a Modern Computer from First Principles: From NAND to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
+- [Build a Modern Computer from First Principles: From NAND to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
+- [Build an 8-bit computer from scratch](https://eater.net/8bit)
+- [Brilliant Summary](https://brilliant.org/wiki/logic-gates)
