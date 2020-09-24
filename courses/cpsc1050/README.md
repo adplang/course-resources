@@ -43,3 +43,4 @@ Offers a broad overview of the computer science discipline. Provides students wi
 - [Build a Modern Computer from First Principles: From NAND to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
 - [Build an 8-bit computer from scratch](https://eater.net/8bit)
 - [Brilliant Summary](https://brilliant.org/wiki/logic-gates)
+- [Interactive game inspired by NAND to Tetris](http://nandgame.com)
