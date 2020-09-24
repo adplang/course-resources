@@ -37,7 +37,7 @@ Offers a broad overview of the computer science discipline. Provides students wi
 - [Introduction to number systems and binary (Khan Academy)](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction)
 - [Binary Number System (Math Is Fun)](https://www.mathsisfun.com/binary-number-system.html)
 
-## Logic Gates
+### Logic Gates
 
 - [Build a Modern Computer from First Principles: From NAND to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
 - [Build a Modern Computer from First Principles: From NAND to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
