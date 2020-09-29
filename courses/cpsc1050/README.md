@@ -12,6 +12,10 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 ## Lectures
 
+### Lecture 1
+
+- [Amy's notes](https://docs.google.com/document/d/13SE6U3g5CrTbSXP7htH3mwn4VKxlNZQDMxE-xkFsZsQ/edit#heading=h.d4hlondl2czp)
+
 ### Lecture 2
 
 - [Amy's notes](https://docs.google.com/document/d/18vJ-Hpn_h0KsboF2cEIpxPPQXepFrnmKhtecmVeuUfE/edit)
@@ -27,6 +31,10 @@ Offers a broad overview of the computer science discipline. Provides students wi
 ### Lecture 4
 
 - [Amy's notes](https://docs.google.com/document/d/1KVpDD5W-oIcs4eDCoPg5ITEbODS1OFOWbs8vckx6IA0/edit)
+
+### Lecture 5
+
+- [Amy's notes](https://docs.google.com/document/d/1exg6MrJFScQ5UgBNKipMoqy43KIfRRgBtehJJKdkJ_o/edit)
 
 ## Resources
 
