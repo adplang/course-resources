@@ -52,3 +52,17 @@ Offers a broad overview of the computer science discipline. Provides students wi
 - [Build an 8-bit computer from scratch](https://eater.net/8bit)
 - [Brilliant Summary](https://brilliant.org/wiki/logic-gates)
 - [Interactive game inspired by NAND to Tetris](http://nandgame.com)
+- [Boolean Logic & Logic Gates: Crash Course Computer Science #3](https://www.youtube.com/watch?v=gI-qXk7XojA)
+- [Representing Numbers and Letters with Binary: Crash Course Computer Science #4](https://www.youtube.com/watch?v=1GSjbWt0c9M)
+
+### Programming
+
+- [Programming Basics: Statements & Functions: Crash Course Computer Science #12](https://www.youtube.com/watch?v=l26oaHV7D40)
+
+### Algorithms
+
+- [Visualized algorithms](https://visualgo.net/en)
+
+### Big O Notation
+
+- [The Little Book of Big O](https://gumroad.com/l/big-o)
