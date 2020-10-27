@@ -12,11 +12,11 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 ## Lectures
 
-### Lecture 1
+### Lecture 1 - Chapter 1
 
 - [Amy's notes](https://docs.google.com/document/d/13SE6U3g5CrTbSXP7htH3mwn4VKxlNZQDMxE-xkFsZsQ/edit#heading=h.d4hlondl2czp)
 
-### Lecture 2
+### Lecture 2 - Chapter 2
 
 - [Amy's notes](https://docs.google.com/document/d/18vJ-Hpn_h0KsboF2cEIpxPPQXepFrnmKhtecmVeuUfE/edit)
 
@@ -24,27 +24,31 @@ Offers a broad overview of the computer science discipline. Provides students wi
 - [Video 2](https://streamable.com/scvh7c)
 - [Video 3](https://www.youtube.com/watch?v=jnIWZE284Rw&feature=youtu.be)
 
-### Lecture 3
+### Lecture 3 - Chapter 3
 
 - [Amy's notes](https://docs.google.com/document/d/1OLIb4HYL7qM8ocgsyoUehacU2KJC57ai9ktumTPcCBQ/edit)
 
-### Lecture 4
+### Lecture 4 - Chapter 4
 
 - [Amy's notes](https://docs.google.com/document/d/1KVpDD5W-oIcs4eDCoPg5ITEbODS1OFOWbs8vckx6IA0/edit)
 
-### Lecture 5
+### Lecture 5 - Chapter 5
 
 - [Amy's notes](https://docs.google.com/document/d/1exg6MrJFScQ5UgBNKipMoqy43KIfRRgBtehJJKdkJ_o/edit)
 
-### Lecture 7
+### Lecture 6 - Chapter 6
+
+- [Amy's notes](https://docs.google.com/document/d/1acooNrKBLthVisb33S7sll5DzVWPcQBRmPDOnyXrT1k/edit)
+
+### Lecture 7 - Chapter 7
 
 - [Amy's notes](https://docs.google.com/document/d/1GuFRuq80mOqlpQem4AfBPfv0PwQFcM2ot36O1lTGw7s/edit)
 
-### Lecture 8
+### Lecture 8 - Chapter 8
 
 - [Amy's notes](https://docs.google.com/document/d/1ZoDS3gycg7ub53FJpPgCznd756Qwd2YIYpdTv6MfDpY/edit)
 
-### Lecture 9
+### Lecture 9 - Chapter 9
 
 - [Amy's notes](https://docs.google.com/document/d/15ILm72wdhc27Hu0nHY5R-h39WiYUne58bEt0Z9cXpyc/edit)
 
