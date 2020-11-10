@@ -60,6 +60,10 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 - [Amy's notes](https://docs.google.com/document/d/1ked5ME89lOiBFDfajgEMOjDxPZ9te6XDJA9gwQWk3A8/edit)
 
+### Lecture 12
+
+- [Amy's notes](https://docs.google.com/document/d/1qnxkjLHf5xVS-rQTl5ckx2axp5Dn-wlZkKMDOf0JS_0/edit)
+
 ## Resources
 
 - [Answer key to Computer Science Illuminated 7th edition](https://www.bartleby.com/solution-answer/chapter-1-problem-1e-computer-science-illuminated-7th-edition/9781284155617/40248f0b-aa09-11e9-8385-02ee952b546e)
