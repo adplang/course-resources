@@ -16,7 +16,7 @@ Offers a broad overview of the computer science discipline. Provides students wi
 
 - [Amy's notes](https://docs.google.com/document/d/13SE6U3g5CrTbSXP7htH3mwn4VKxlNZQDMxE-xkFsZsQ/edit#heading=h.d4hlondl2czp)
 
-### Lecture - Chapter 2
+### Lecture - Chapter 2: Binary Values and Number Systems
 
 - [Amy's notes](https://docs.google.com/document/d/18vJ-Hpn_h0KsboF2cEIpxPPQXepFrnmKhtecmVeuUfE/edit)
 
@@ -24,45 +24,62 @@ Offers a broad overview of the computer science discipline. Provides students wi
 - [Video 2](https://streamable.com/scvh7c)
 - [Video 3](https://www.youtube.com/watch?v=jnIWZE284Rw&feature=youtu.be)
 
-### Lecture - Chapter 3
+### Lecture - Chapter 3: Data Representation
 
 - [Amy's notes](https://docs.google.com/document/d/1OLIb4HYL7qM8ocgsyoUehacU2KJC57ai9ktumTPcCBQ/edit)
 
-### Lecture - Chapter 4
+### Lecture - Chapter 4: Gates and Circuits
 
 - [Amy's notes](https://docs.google.com/document/d/1KVpDD5W-oIcs4eDCoPg5ITEbODS1OFOWbs8vckx6IA0/edit)
 
-### Lecture - Chapter 5
+### Lecture - Chapter 5: Computing Components 
 
 - [Amy's notes](https://docs.google.com/document/d/1exg6MrJFScQ5UgBNKipMoqy43KIfRRgBtehJJKdkJ_o/edit)
 
-### Lecture - Chapter 6
+### Lecture - Chapter 6: Low Level Programming Languages
 
 - [Amy's notes](https://docs.google.com/document/d/1acooNrKBLthVisb33S7sll5DzVWPcQBRmPDOnyXrT1k/edit)
 
-### Lecture - Chapter 7
+### Lecture - Chapter 7: Problem Solving and Algorithms
 
 - [Amy's notes](https://docs.google.com/document/d/1GuFRuq80mOqlpQem4AfBPfv0PwQFcM2ot36O1lTGw7s/edit)
 
-### Lecture - Chapter 8
+### Lecture - Chapter 8: Abstract Data Types and Subprograms
 
 - [Amy's notes](https://docs.google.com/document/d/1ZoDS3gycg7ub53FJpPgCznd756Qwd2YIYpdTv6MfDpY/edit)
 
-### Lecture - Chapter 9
+### Lecture - Chapter 9: Object Oriented Design and High-Level Programming Languages
 
 - [Amy's notes](https://docs.google.com/document/d/15ILm72wdhc27Hu0nHY5R-h39WiYUne58bEt0Z9cXpyc/edit)
 
-### Lecture - Chapter 10
+### Lecture - Chapter 10: Operating Systems
 
 - [Amy's notes](https://docs.google.com/document/d/1qNZMd1QBb7F-6TI68FX8dc6ixCH2U0TMPlMcKzObHMc/edit)
 
-### Lecture - Chapter 11
+### Lecture - Chapter 11: File Systems and Directories
 
 - [Amy's notes](https://docs.google.com/document/d/1ked5ME89lOiBFDfajgEMOjDxPZ9te6XDJA9gwQWk3A8/edit)
 
-### Lecture - Chapter 12
+### Lecture - Chapter 12: Information Systems
 
 - [Amy's notes](https://docs.google.com/document/d/1qnxkjLHf5xVS-rQTl5ckx2axp5Dn-wlZkKMDOf0JS_0/edit)
+
+### Lecture - Chapter 13: Artificial Intelligence 
+
+- [Amy's notes](https://docs.google.com/document/d/1kVg7cIpd7IxrYlTT9cw-UUxWViE_qEkA849vmob86N8/edit)
+
+### Lecture - Chapter 14: Simulation, Graphics, Gaming, and Other Applications
+
+- [Amy's notes](https://docs.google.com/document/d/1YVuZofv8gqTHm36JdP_QEtj-nVWpHQwXgT5sOI7GsW8/edit)
+
+### Lecture - Chapter 15: Networks
+
+- [Amy's notes](https://docs.google.com/document/d/1vjNdOVURD2klw7K1T8eFph5fljnAvmI1Dk2rzT81H1Y/edit)
+
+### Lecture - Chapter 17: Computer Security
+
+- [Amy's notes](https://docs.google.com/document/d/18XbQe6UUBj5pFXySuj14qFJhazZCzQkVi9OqSkCH5MI/edit)
+
 
 ## Review Material
 
